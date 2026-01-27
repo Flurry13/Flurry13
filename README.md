@@ -1,5 +1,5 @@
 Hey, I'm Oliver 👋
-Full-stack developer building practical tools and exploring fintech.
+Learning Full-stack developer building practical tools and exploring more AI/ML projects.
 Tech Stack
 Languages: JavaScript · Java · Python · C
 Tools: Supabase · Stripe · Node.js
