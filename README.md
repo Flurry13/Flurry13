@@ -6,7 +6,7 @@ CS student building fast developer tools in Rust and exploring NLP/ML. Currently
 
 **Languages:** Python · Rust · JavaScript · Java · C
 
-**Tools & Frameworks:** PyTorch · Node.js · Supabase · Stripe
+**Tools & Frameworks:** PyTorch · Next.js · Supabase · Stripe
 
 ## Projects
 
