@@ -10,7 +10,7 @@ CS student building fast developer tools in Rust and exploring NLP/ML. Currently
 
 ## Projects
 
-**lexis** — A fast Rust CLI and library for corpus analysis. Computes n-grams, readability scores, entropy, perplexity, Zipf distributions, and BPE token counts in a single binary. Published on [crates.io](https://crates.io).
+**Corpa** — A fast Rust CLI and library for corpus analysis. Computes n-grams, readability scores, entropy, perplexity, Zipf distributions, and BPE token counts in a single binary. Published on [crates.io](https://crates.io).
 
 **Zyp** — Cross-border payments platform helping outsourcing companies save on international transfer fees.
 
